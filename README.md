@@ -1,1 +1,1 @@
-
+This training includes an in-depth approach to the concepts of classes with inheritance and polymorphism, as well as explanations on the use of virtual environments and their importance in isolating dependencies and keeping the project increasingly efficient and secure, especially when working on multiple projects. API (Application Programming Interface), an essential concept for back-end development using Python is also covered. 
